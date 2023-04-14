@@ -1,0 +1,62 @@
+.modalStyle{
+    position: absolute!important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 35% !important;
+    background-color: white !important;
+    border: 2px solid #000 !important;
+    box-shadow: 24 !important;
+    padding: 4 !important;
+    height: 55vh !important;
+    border: 1px solid white !important;
+    border-radius: 20px !important;
+}
+.deleteModal{
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 35% !important;
+    background-color: white !important;
+    border: 2px solid #000 !important;
+    box-shadow: 24 !important;
+    padding: 4 !important;
+    height: 25vh !important;
+    border: 1px solid white !important;
+    border-radius: 20px !important;
+}
+.inputField{
+   width: 100% !important;
+   margin-top: 15px !important;
+   padding-left: 10px;
+   text-align: center !important;
+}
+.buttonFlex{
+    margin-top: 30px !important;
+    display: flex !important;
+    justify-content: space-evenly !important;
+    align-items: center !important;
+}
+.title h4{
+    text-align: center !important;
+}
+.heading{
+    text-align: center !important;
+    margin-top: 20px;
+}
+.addUser{
+    margin-top: 15px !important;
+}
+.toast-message{
+    background-color: #d9534f !important;
+    color: #fff !important;
+    font-size: 20px;
+    width: 25vw;
+}
+.toast-success{
+    background-color: #018001 !important;
+    color: #fff !important;
+    font-size: 20px;
+    width: 25vw;
+}
